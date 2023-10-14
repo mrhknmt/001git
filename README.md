@@ -3,7 +3,14 @@ Bu repo <u>Kodluyoruz</u>  Git Eğitiminde oluşturduğumuz ilk repo. İçerisin
 ## lnstallation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-git clone [https://github.com/mrhknmt/kodluyoruzilkrepo.git] (https://github.com/mrhknmt/kodluyoruzilkrepo.git)
+git clone - [https://github.com/mrhknmt/kodluyoruzilkrepo.git]: https://github.com/mrhknmt/kodluyoruzilkrepo.git
 
 
 
+
+## Usage 
+Projeyi cloneladıktan sonra Visual Studio Code programında açıınız.
+
+Linux için:
+
+cd 
